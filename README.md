@@ -10,6 +10,9 @@ With this script,
 
 ![render_01](https://user-images.githubusercontent.com/65713157/132106801-a93a3921-7de5-4020-bc4c-be3b1be3aeeb.jpg)
 
+![render_02](https://user-images.githubusercontent.com/65713157/132107082-c3dc012f-fb3f-4880-8ea5-0062483d8f27.jpg)
+
+
 
 # Disable in GUI
 Once you have checked "Disable in GUI" in 'Disable' tab, the repective node will not show in the viewer. (similar to the process of $GUI)
