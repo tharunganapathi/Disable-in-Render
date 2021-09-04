@@ -1,5 +1,4 @@
-# Disable in Render & GUI
-1.With this script, 
+With this script, 
     You can enable or disable the nodes while rendering and also
     You can enable or disable the nodes while in GUI
     
